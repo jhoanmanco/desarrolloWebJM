@@ -12,7 +12,7 @@ body {
 }
 
 .imageG {
-  height: 400px; /* Puedes ajustar la altura según tu diseño */
+  height: 400px; 
   object-fit: cover;
   width: 100%;
 }
